@@ -18,5 +18,7 @@ Idea by Ibrahim Abdou aswell as the formating and typing of this github page.
 
 Jack Tucker for the extension ideas, sensors and extra microbit when testing.
 
+Modified code:
+
 
 
