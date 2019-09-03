@@ -18,6 +18,21 @@ Idea by Ibrahim Abdou aswell as the formating and typing of this github page.
 
 Jack Tucker for the extension ideas, sensors and extra microbit when testing.
 
+## Sensors 
+The only sensor is the buttons on both Microbits.
+
+## Extension ideas
+Power-ups that could increase the ball's speed and potentially make the platform larger to make it easier to bounce the ball.
+
+## Testing information
+Needed 2 microbits for testing.
+13 hours was spent learning and modifying the code properly (Thank you William).
+There was latency sometimes when playing the game but, we fixed it eventually.
+
+
+
+
+
 # Modified code for Microbit A:
 
 import radio
@@ -475,5 +490,7 @@ else:
     play(FUNERAL, wait=False)
     
     display.scroll("A wins!")
+
+
 
 
