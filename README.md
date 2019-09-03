@@ -18,7 +18,7 @@ Idea by Ibrahim Abdou aswell as the formating and typing of this github page.
 
 Jack Tucker for the extension ideas, sensors and extra microbit when testing.
 
-#Modified code for Microbit A:
+# Modified code for Microbit A:
 
 import radio
 
@@ -314,7 +314,7 @@ display.scroll("Press reset to play again")
 
 
 
-#Code for Microbit B:
+# Code for Microbit B:
 
 
 import speech
